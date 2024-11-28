@@ -1,0 +1,16 @@
+.notification{
+    border-left: 20px solid blue;
+    padding: 20px 10px 10px 20px;
+    border-radius: 10px;
+    background-color: #f2f9f9;
+  }
+  
+  .notification h4{
+    color: blue;
+    margin-left: 20px;
+  }
+  
+  .notification p{
+    color: gray;
+    margin-left: 20px;
+  }

@@ -1,0 +1,12 @@
+.btn-s1{
+    background-color: white;
+    color: red;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid red;
+}
+
+.btn-s1:hover{
+    background-color: red;
+    color: white;
+}
